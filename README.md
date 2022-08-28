@@ -1,5 +1,4 @@
 
-![photo1660532495](https://user-images.githubusercontent.com/109679233/187070017-66bb2909-9b96-4cb5-994f-ffa816c49259.jpeg)
 # 💫 About Me:
 🔭 I’m currently building my Portfolio Website<br>🌱 I’m currently learning HTML,CSS,C<br>💬 Ask me about anything I mentioned above⬆️<br>⚡ Fun fact My mathematics is weak 
 
