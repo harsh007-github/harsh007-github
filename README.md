@@ -1,23 +1,22 @@
-<h1 align="center">Hi 👋, I'm Harsh Khandelwal</h1>
-<h3 align="center">A passionate coder from India</h3>
+# 💫 About Me:
+🔭 I’m currently working on Building my Portfolio Website<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning HTML,CSS<br>💬 Ask me about Programming,Problems<br>⚡ Fun fact My Maths is weak
 
-- 🔭 I’m currently working on [Potfolio Website](https://portfolio-website-silk-one.vercel.app/)
 
-- 🌱 I’m currently learning **HTML,CSS**
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/https://discord.gg/nbjWVEXC) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/harshkhandelwal18/) 
 
-- 👨‍💻 All of my projects are available at [https://github.com/harsh007-github](https://github.com/harsh007-github)
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=harsh007-github&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=harsh007-github&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=harsh007-github&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/harshkhandelwal18/](https://www.linkedin.com/in/harshkhandelwal18/)
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-- 📫 How to reach me **khandelwalharsh401@gmail.com**
+### 😂 Random Dev Meme
+<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
-- ⚡ Fun fact **My English is very good**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/harshkhandelwal18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harshkhandelwal18" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> </p>
-
+---
+[![](https://visitcount.itsvg.in/api?id=harsh007-github&icon=5&color=0)](https://visitcount.itsvg.in)
