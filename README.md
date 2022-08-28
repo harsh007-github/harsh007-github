@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Building my Portfolio Website<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning HTML,CSS<br>💬 Ask me about Programming,Problems<br>⚡ Fun fact My Maths is weak
+🔭 I’m currently Building my Portfolio Website<br>🌱 I’m currently learning HTML,CSS<br>💬 Ask me about Anything I mentioned above⬆️<br>⚡ Fun fact My Maths is weak
 
 
 ## 🌐 Socials:
