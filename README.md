@@ -25,3 +25,5 @@
 
 ##Snake Eating My Contribution Graph
 ![snake gif](https://github.com/harsh007-github/harsh007-github/blob/output/github-contribution-grid-snake.gif)
+![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
+![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
