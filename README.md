@@ -1,6 +1,6 @@
-
-# 💫 About Me:
-🔭 I’m currently building my Portfolio Website<br>🌱 I’m currently learning HTML,CSS,C<br>💬 Ask me about anything I mentioned above⬆️<br>⚡ Fun fact My mathematics is weak 
+<h1>India's Least Eligible Coder👨‍💻</h1> 
+<h2>💫 About Me:</h2>
+🔭 I’m currently building my Portfolio Website<br>🌱 I’m currently learning HTML,CSS,C<br>💬 Ask me about anything I mentioned above⬆️<br>⚡ Fun fact My Coding is weak 
 
 
 ## 🌐 Socials:
