@@ -1,4 +1,4 @@
-<h1>India's Least Eligible Coder👨‍💻</h1> 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%91%8BHello+there+Visitor!;%E2%9C%A8Welcome+to+my+Github+Profile;I+am+Harsh+Khandelwal;India's+Least+Eligible+Coder%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;%F0%9F%93%A2Click+to+view+my+Linkedin+Profile)](https://www.linkedin.com/in/harshkhandelwal18/)
 <h2>💫 About Me:</h2>
 🔭 I’m currently building my Portfolio Website<br>🌱 I’m currently learning HTML,CSS,C<br>💬 Ask me about anything I mentioned above⬆️<br>⚡ Fun fact My Coding is weak 
 
