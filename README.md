@@ -1,6 +1,9 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%91%8BHello+there+Visitor!;%E2%9C%A8Welcome+to+my+Github+Profile;I+am+Harsh+Khandelwal;India's+Least+Eligible+Coder%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;%F0%9F%93%A2Click+to+view+my+Linkedin+Profile)](https://www.linkedin.com/in/harshkhandelwal18/)
 
-###  📚Also,I just entered in my first year at college
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%91%8BHello+there+Visitor!;%E2%9C%A8Welcome+to+my+Github+Profile;I+am+Harsh+Khandelwal;India's+Least+Eligible+Coder%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;%F0%9F%93%A2Click+to+view+my+Linkedin+Profile)](https://www.linkedin.com/in/harshkhandelwal18/) 
+
+![cat](https://user-images.githubusercontent.com/109679233/188181761-b8240b7e-2458-422f-a650-c681ddef5e3c.gif)
+
+###  📚Also,I just entered in my first year at college:
 ![That's ME!](https://user-images.githubusercontent.com/109679233/188179680-bfafcd1d-c7de-4b4e-8098-aac21829fbed.png)
 
 
