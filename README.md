@@ -20,10 +20,10 @@
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
+
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=harsh007-github&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=harsh007-github&theme=tokyonight)](https://git.io/streak-stats)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=harsh007-github&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=harsh007-github&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=harsh007-github&langs_count=5&theme=tokyonight)]()
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=harsh007-github&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
