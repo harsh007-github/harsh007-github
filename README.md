@@ -2,8 +2,10 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%91%8BHello+there+Visitor!;%E2%9C%A8Welcome+to+my+Github+Profile;I+am+Harsh+Khandelwal;India's+Least+Eligible+Coder%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;%F0%9F%93%A2Click+to+view+my+Linkedin+Profile)](https://www.linkedin.com/in/harshkhandelwal18/) 
 
-![giphy2](https://user-images.githubusercontent.com/109679233/192133690-9e884a50-4b7c-41be-af04-a989947c455e.gif)
+<div>
+<img width="900" height="450" src="https://user-images.githubusercontent.com/109679233/192133690-9e884a50-4b7c-41be-af04-a989947c455e.gif">
 
+</div>
 </div>
 
 
