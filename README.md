@@ -1,9 +1,9 @@
-
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%91%8BHello+there+Visitor!;%E2%9C%A8Welcome+to+my+Github+Profile;I+am+Harsh+Khandelwal;India's+Least+Eligible+Coder%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;%F0%9F%93%A2Click+to+view+my+Linkedin+Profile)](https://www.linkedin.com/in/harshkhandelwal18/) 
 <div align="center">
 
-![giphy1](https://user-images.githubusercontent.com/109679233/190641622-d9077e2c-97a9-4d8f-b751-86af77e0423b.gif)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%91%8BHello+there+Visitor!;%E2%9C%A8Welcome+to+my+Github+Profile;I+am+Harsh+Khandelwal;India's+Least+Eligible+Coder%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;%F0%9F%93%A2Click+to+view+my+Linkedin+Profile)](https://www.linkedin.com/in/harshkhandelwal18/) 
+
+![giphy2](https://user-images.githubusercontent.com/109679233/192133690-9e884a50-4b7c-41be-af04-a989947c455e.gif)
+
 </div>
 
 
@@ -15,12 +15,16 @@
 
 
 <h2>💫 About Me:</h2>
-🔭 I’m currently building my Portfolio Website<br>🌱 I’m currently learning HTML,CSS,C<br>💬 Ask me about anything I mentioned above⬆️<br>⚡ Fun fact My Coding is weak 
+🔭 I’m currently building my Portfolio Website<br>🌱 I’m currently learning HTML,CSS,C++<br>💬 Ask me anything about things I mentioned above<br> 
 
 
-## 🌐 Socials:
+## 🌐 Socials/Coding Platforms:
 <a href="https://linkedin.com/in/harshkhandelwal18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harshkhandelwal18" height="30" width="40" /></a>
-<a href="https://discord.gg/grzbsPpvkV" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="grzbsPpvkV" height="30" width="40" /></a>
+<a href="https://discord.gg/grzbsPpvkV" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="grzbsPpvkV" height="30" width="40" /></a> <a href="https://hashnode.com/@harshcool" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@harshcool" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/khandelwal439v" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="khandelwal439v" height="30" width="40" /></a>
+</p>
+
+
 </p>
 
 
@@ -38,13 +42,6 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=harsh007-github&theme=tokyonight&border_radius=35)](https://git.io/streak-stats)
 </div>
 
-## 🏆 GitHub Trophies
-<div align="center">
-
-![](https://github-profile-trophy.vercel.app/?username=harsh007-github&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
-
-</div>
-
 ## ✍️ Random Dev Quote
 <div align="center">
 
@@ -52,7 +49,7 @@
 </div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=harsh007-github&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 <div align="center">
 
