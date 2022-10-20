@@ -44,6 +44,7 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=harsh007-github&theme=tokyonight&border_radius=35)](https://git.io/streak-stats)
 </div>
 
+## Latest Blog Posts
 <!-- HASHNODE:start -->
 <!-- HASHNODE:end -->
 
