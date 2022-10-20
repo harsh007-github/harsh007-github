@@ -46,6 +46,11 @@
 
 # Blog posts
 <!-- HASHNODE:START -->
+- [Arrays in C/C++](https://harshcool.hashnode.dev/arrays-in-cc)
+- [Adding auto playing background videos using HTML!](https://harshcool.hashnode.dev/adding-auto-playing-background-videos-using-html)
+- [Learning from Geeks for Geeks👨‍💻](https://harshcool.hashnode.dev/learning-from-geeks-for-geeks)
+- [Strings in C/C++](https://harshcool.hashnode.dev/strings-in-cc)
+- [🐍Adding snake eating contribution on GitHub](https://harshcool.hashnode.dev/adding-snake-eating-contribution-on-github)
 <!-- HASHNODE:END -->
 
 
