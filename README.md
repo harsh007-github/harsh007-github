@@ -53,9 +53,6 @@
 - [Strings in C/C++](https://harshcool.hashnode.dev/strings-in-cc)
 <!-- HASHNODE:END -->
 
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:6989648768660848640" allowfullscreen="" title="Embedded post" width="504" height="1042" frameborder="0"></iframe>
-
-
 <div align="center">
 
 # 🐍Snake Eating My Contribution Graph
