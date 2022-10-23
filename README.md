@@ -46,11 +46,11 @@
 
 # Blog posts
 <!-- HASHNODE:START -->
+- [Add  blogs to your Github Readme in 2 steps&lpar;Automated&rpar;](https://harshcool.hashnode.dev/add-blogs-to-your-github-readme-in-2-stepsautomated)
 - [How to deal with TLEs??](https://harshcool.hashnode.dev/how-to-deal-with-tle)
 - [Arrays in C/C++](https://harshcool.hashnode.dev/arrays-in-cc)
 - [Adding auto playing background videos using HTML!](https://harshcool.hashnode.dev/adding-auto-playing-background-videos-using-html)
 - [Learning from Geeks for Geeks👨‍💻](https://harshcool.hashnode.dev/learning-from-geeks-for-geeks)
-- [Strings in C/C++](https://harshcool.hashnode.dev/strings-in-cc)
 <!-- HASHNODE:END -->
 
 <div align="center">
