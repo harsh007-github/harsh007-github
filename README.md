@@ -44,7 +44,7 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=harsh007-github&theme=tokyonight&border_radius=35)](https://git.io/streak-stats)
 </div>
 
-# Blog posts
+# 📝Blog posts
 <!-- HASHNODE:START -->
 - [Add  blogs to your Github Readme in 2 steps&lpar;Automated&rpar;](https://harshcool.hashnode.dev/add-blogs-to-your-github-readme-in-2-stepsautomated)
 - [How to deal with TLEs??](https://harshcool.hashnode.dev/how-to-deal-with-tle)
