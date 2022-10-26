@@ -37,12 +37,15 @@
 # 📈 GitHub Stats:
 <div align="center">
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=harsh007-github&theme=tokyonight&border_radius=35)](https://git.io/streak-stats)
+  
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=harsh007-github&count_private=true&theme=tokyonight&showicons=true&border_radius=35)]()
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=harsh007-github&langs_count=5&theme=tokyonight&border_radius=35)]()
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=harsh007-github&theme=tokyonight&border_radius=35)](https://git.io/streak-stats)
 </div>
+
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=harsh007-github&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
 
 # 📝Blog posts
 <!-- HASHNODE:START -->
