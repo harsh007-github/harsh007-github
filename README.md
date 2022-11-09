@@ -43,7 +43,7 @@
 
 </div>
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=harsh007-github&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=harsh007-github&theme=react)]([https://github.com/ashutosh00710/github-readme-activity-graph](https://www.linkedin.com/in/harshkhandelwal18/))
 
 
 
