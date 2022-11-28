@@ -38,7 +38,6 @@
 <div align="center">
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=harsh007-github&theme=tokyonight&border_radius=35)](https://git.io/streak-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=harsh007-github&show_icons=true&theme=tokyonight&border_radius=35)
 
 </div>
 
