@@ -43,7 +43,11 @@
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=harsh007-github&theme=react)]([https://github.com/ashutosh00710/github-readme-activity-graph])
 
+<div align="center">
 
+![](https://komarev.com/ghpvc/?username=harsh007-github)
+
+</div>
 
 # 📝Blog posts
 <!-- BLOG-POST-LIST:START -->
