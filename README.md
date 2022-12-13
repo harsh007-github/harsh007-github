@@ -34,9 +34,9 @@
 
 # 📝Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Working with HTML Forms](https://harshcool.hashnode.dev/getting-started-with-forms-a-beginners-guide-to-working-with-html-css)
 - [My recent visit to IIT Gandhinagar!](https://harshcool.hashnode.dev/my-recent-visit-to-iit-gandhinagar)
 - [File Handling and its basics](https://harshcool.hashnode.dev/file-handling)
 - [Add  blogs to your Github Readme in 2 steps&lpar;Automated&rpar;](https://harshcool.hashnode.dev/add-blogs-to-your-github-readme-in-2-stepsautomated)
 - [How to deal with TLEs??](https://harshcool.hashnode.dev/how-to-deal-with-tle)
-- [Arrays in C/C++](https://harshcool.hashnode.dev/arrays-in-cc)
 <!-- BLOG-POST-LIST:END -->
