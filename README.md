@@ -32,7 +32,7 @@
 
 </div>
 
-<!-- # 📝Blog posts
+# 📝Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Create content beyond AI](https://harshmax.substack.com/p/create-content-beyond-ai)
 - [My First Newsletter!!](https://harshmax.substack.com/p/my-first-newsletter)
