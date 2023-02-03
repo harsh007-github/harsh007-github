@@ -34,9 +34,9 @@
 
 # 📝Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [My Dev Retro 2022- A short recap to my CS Journey](https://harshcool.hashnode.dev/my-dev-retro-2022-a-short-recap-to-my-cs-journey)
-- [Working with HTML Forms](https://harshcool.hashnode.dev/getting-started-with-forms-a-beginners-guide-to-working-with-html-css)
-- [My recent visit to IIT Gandhinagar!](https://harshcool.hashnode.dev/my-recent-visit-to-iit-gandhinagar)
-- [File Handling and its basics](https://harshcool.hashnode.dev/file-handling)
-- [Add  blogs to your Github Readme in 2 steps&lpar;Automated&rpar;](https://harshcool.hashnode.dev/add-blogs-to-your-github-readme-in-2-stepsautomated)
+- [Create content beyond AI](https://harshmax.substack.com/p/create-content-beyond-ai)
+- [My First Newsletter!!](https://harshmax.substack.com/p/my-first-newsletter)
+- [Coming soon](https://harshmax.substack.com/p/coming-soon)
+- [My Dev Retro 2022- A short recap to my CS Journey](https://harshmax.substack.com/p/my-dev-retro-2022-a-short-recap-to-my-cs-journey)
+- [Working with HTML Forms](https://harshmax.substack.com/p/getting-started-with-forms-a-beginners-guide-to-working-with-html-css)
 <!-- BLOG-POST-LIST:END -->
