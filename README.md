@@ -9,13 +9,6 @@
 </div>
 
 
-###  📚Also,I just entered in my first year at college:
-<div align ="center">
-
-![That's ME!](https://user-images.githubusercontent.com/109679233/188179680-bfafcd1d-c7de-4b4e-8098-aac21829fbed.png)
-</div>
-
-
 <h2>💫 About Me:</h2>
 🔭 I’m currently building my Portfolio Website<br>🌱 I’m currently learning HTML,CSS,C,C++<br>💬 Ask me anything about things I mentioned above<br> 
 
