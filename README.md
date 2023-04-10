@@ -24,12 +24,3 @@
 ![](https://komarev.com/ghpvc/?username=harsh007-github)
 
 </div>
-
-# 📝Blog posts
-<!-- BLOG-POST-LIST:START -->
-- [Learn, Connect, Grow](https://harshmax.substack.com/p/learn-connect-grow)
-- [Create content beyond AI](https://harshmax.substack.com/p/create-content-beyond-ai)
-- [My First Newsletter!!](https://harshmax.substack.com/p/my-first-newsletter)
-- [Coming soon](https://harshmax.substack.com/p/coming-soon)
-- [My Dev Retro 2022- A short recap to my CS Journey](https://harshmax.substack.com/p/my-dev-retro-2022-a-short-recap-to-my-cs-journey)
-<!-- BLOG-POST-LIST:END -->
