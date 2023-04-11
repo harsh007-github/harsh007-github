@@ -1,14 +1,14 @@
-name: Latest substack posts
-on:
-  schedule: # Run workflow automatically
-    - cron: '0 * * * *' # Runs every hour, on the hour
-  workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the Github Actions Workflow page directly
-jobs:
-  update-readme-with-substack-posts:
-    name: Update this repo's README with the latest substack posts
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v2
-      - uses: gautamkrishnar/blog-post-workflow@master
-        with:
-          feed_list: "https://harshmax.substack.com/feed"
+# name: Latest substack posts
+# on:
+#   schedule: # Run workflow automatically
+#     - cron: '0 * * * *' # Runs every hour, on the hour
+#   workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the Github Actions Workflow page directly
+# jobs:
+#   update-readme-with-substack-posts:
+#     name: Update this repo's README with the latest substack posts
+#     runs-on: ubuntu-latest
+#     steps:
+#       - uses: actions/checkout@v2
+#       - uses: gautamkrishnar/blog-post-workflow@master
+#         with:
+#           feed_list: "https://harshmax.substack.com/feed"
