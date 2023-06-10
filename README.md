@@ -10,13 +10,13 @@
 
 
 <h2>💫 About Me:</h2>
-🔭 I’m currently building my Portfolio Website<br>
-🌱 I’m currently learning HTML,CSS,C,C++<br>
-💬 Ask me anything about things I mentioned above<br>
+- I’m currently building my Portfolio Website<br>
+- I’m currently learning JS, Python, Bootstrap and WordPress<br>
+- Ask me anything about things I mentioned above<br>
 - Beginner competitve programmer, Open Source Contributor, Passionate Coder<br>
 - Ex- Content Writing Inter at a Startup<br>
 - 1k+ LinkedIn 🚀<br>
-- 📫 How to reach me: [Harsh Khandelwal](https://www.linkedin.com/in/harshkhandelwal18/)<br>
+-  How to reach me: [Harsh Khandelwal](https://www.linkedin.com/in/harshkhandelwal18/)<br>
 - Completed 2 Freelance Projects ( Domain:- WordPress(Web Deveolepment) )<br>
 - Visit my [Linktree](https://harsh007-github.github.io/Allink.github.io/)<br>
 
