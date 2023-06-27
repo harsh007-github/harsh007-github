@@ -10,25 +10,17 @@
 
 
 <h2>💫 About Me:</h2>
-- I’m currently building my Portfolio Website<br>
-- I’m currently learning JS, Python, Bootstrap and WordPress<br>
-- Ask me anything about things I mentioned above<br>
+- I’m currently learning Javascript<br>
 - Beginner competitve programmer, Open Source Contributor, Passionate Coder<br>
-- Ex- Content Writing Inter at a Startup<br>
+- Ex- Content Writing Intern at a Startup<br>
 - 1k+ LinkedIn 🚀<br>
--  How to reach me: [Harsh Khandelwal](https://www.linkedin.com/in/harshkhandelwal18/)<br>
-- Completed 2 Freelance Projects ( Domain:- WordPress(Web Deveolepment) )<br>
-- Visit my [Linktree](https://harsh007-github.github.io/Allink.github.io/)<br>
+- Completed 2 Freelance Projects ( Domain:- WordPress)<br>
+- Reach me Here<a href="https://www.linkedin.com/in/harshkhandelwal18/">Linkedin</a><br>
+- Visit my <a href="https://harsh007-github.github.io/Allink.github.io/">Linktree</a><br>
 
 # 📈 GitHub Stats:
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=harsh007-github&theme=tokyonight&border_radius=35)](https://git.io/streak-stats)
-
-</div>
-
-<div align="center">
-
-![](https://komarev.com/ghpvc/?username=harsh007-github)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=harsh007-github&theme=highcontrast)](https://git.io/streak-stats)
 
 </div>
