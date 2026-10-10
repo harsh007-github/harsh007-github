@@ -24,4 +24,4 @@ NIT Raipur'28 | Backend Systems | Databases | Competitive Programming | Generati
 
 ### 📬 Connect
 - **LinkedIn:** [harshkhandelwal18](https://www.linkedin.com/in/harshkhandelwal18/)
-- **LeetCode:** [harshXP]([https://leetcode.com/](https://leetcode.com/u/HarshXP/))
+- **LeetCode:** [HarshXP](https://leetcode.com/u/HarshXP/)
